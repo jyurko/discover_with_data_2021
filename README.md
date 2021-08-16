@@ -4,3 +4,7 @@
 Welcome to the Github repo! We can share items from the class through this repository.  
 
 ## Day 1 - 08/15/2021
+* Introductions, goals, and motivations  
+* What is data? 
+* Data journal
+* Finding data
